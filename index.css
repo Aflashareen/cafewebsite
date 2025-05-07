@@ -1,0 +1,19 @@
+.parent{
+    background-image: url(https://img.freepik.com/premium-photo/flat-lay-com…ackground-copy-space-banner_370312-155.jpg?w=2000
+    );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+.parent2{
+    background-color: rgba(128, 128, 128, 0.135);
+}
+.of2{
+    display: flex;
+    flex-direction: row;
+    gap: 20%;
+}
+.parent4{
+    background-color: rgba(128, 128, 128, 0.135);
+}
